@@ -65,8 +65,10 @@ app.post("/", function (req, res) {
 
 
 
-// API key
+// Mailchimp API key
 // 05a766c32d06b5ffff421b664b64e162-us20
 
-// List ID
+// Mailchimp List ID
 // 20807bfc97
+
+// heroku temp server site https://calm-basin-65282.herokuapp.com/
